@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-18",
+  "model_files_matching_pinned_manifest": 23,
+  "baseline_files_matching_original": 60,
+  "ppt_report_script_copies_match_original": true,
+  "notebook_saved_executed_cells": 9,
+  "copied_project_core_tests": "3 tests passed",
+  "copied_project_live_smoke": {
+    "models_loaded": 3,
+    "chunks": 37,
+    "vectors": [
+      37,
+      512
+    ],
+    "baseline_context": [
+      "D15-C01",
+      "D10-C01",
+      "D11-C02"
+    ],
+    "rerank_context": [
+      "D15-C01",
+      "D10-C01",
+      "D01-C01"
+    ],
+    "both_answers_nonempty": true,
+    "original_results_overwritten": false
+  },
+  "presentation_source_smoke": "copied source successfully exported 12-slide draft using copied MathJax dependencies",
+  "python_environment": "not copied; current machine uses original .runtime, rebuild .venv elsewhere",
+  "source_screenshots": "temporary original files unavailable; transcript from conversation included",
+  "unrelated_lora_and_installers": "excluded"
+}

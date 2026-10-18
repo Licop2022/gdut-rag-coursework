@@ -1,0 +1,52 @@
+{
+  "run_utc": "2026-10-18T05:44:06.284515+00:00",
+  "dataset": "自编教学语料，非外部盲测",
+  "documents": 20,
+  "chunks": 37,
+  "vector_dim": 512,
+  "questions": 12,
+  "answerable_questions": 10,
+  "out_of_scope_questions": 2,
+  "models": {
+    "embedding": "BAAI/bge-small-zh-v1.5",
+    "reranker": "cross-encoder/mmarco-mMiniLMv2-L12-H384-v1",
+    "generator": "Qwen/Qwen2.5-0.5B-Instruct"
+  },
+  "config": {
+    "chunk_size": 180,
+    "overlap": 36,
+    "top_k": 10,
+    "context_k": 3,
+    "max_new_tokens": 128,
+    "seed": 42,
+    "threads": 4
+  },
+  "index_sha256": "3609f173f3130f2b499caafb1c4c7263955081d04bc6e2d6278cfa1b04c364ec",
+  "environment": {
+    "python": "3.11.2 (tags/v3.11.2:878ead1, Feb  7 2023, 16:38:35) [MSC v.1934 64 bit (AMD64)]",
+    "torch": "2.6.0+cpu",
+    "transformers": "4.46.3",
+    "numpy": "1.26.4",
+    "os": "Windows-10-10.0.26100-SP0",
+    "processor": "Intel64 Family 6 Model 165 Stepping 2, GenuineIntel",
+    "device": "CPU",
+    "threads": 4
+  },
+  "model_load_and_index_s": 3.9583588000004966,
+  "generation_enabled": true,
+  "metric_definition": "文档级相关标注。Hit@3至少命中一个相关文档，MRR@3取首个相关片段排名倒数；资料外题不参与检索指标。重复片段不合并。",
+  "baseline": {
+    "hit1": 1,
+    "hit3": 1,
+    "mrr3": 1.0,
+    "mean_total_s": 7.6304286833337756
+  },
+  "rerank": {
+    "hit1": 1,
+    "hit3": 1,
+    "mrr3": 1.0,
+    "mean_total_s": 7.712009883333394
+  },
+  "candidate_hit10": 1,
+  "mean_rerank_s": 0.45356443333321295
+}

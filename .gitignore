@@ -1,0 +1,27 @@
+# Model weights and generated downloads
+*.safetensors
+*.bin
+*.onnx
+*.pt
+*.pth
+*.whl
+*.part
+*.zip
+# Rebuildable dependencies and local configuration
+node_modules/
+.venv/
+.runtime/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.build/
+cache/
+runtime-settings.json
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+# New experiment outputs must be reviewed before committing
+results_rerun*/

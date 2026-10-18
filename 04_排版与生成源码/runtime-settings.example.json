@@ -1,0 +1,6 @@
+{
+  "presentationsSkillDir": "<presentation-skill-directory>",
+  "nodeModules": "<codex-runtime-node_modules>",
+  "nodeExecutable": "<node-executable>",
+  "pythonExecutable": "<python-executable>"
+}

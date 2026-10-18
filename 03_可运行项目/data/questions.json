@@ -1,0 +1,135 @@
+[
+  {
+    "id": "Q01",
+    "kind": "直接",
+    "question": "RAG知识库更新以后，一般需要重新训练生成模型吗？",
+    "gold_docs": [
+      "D01"
+    ],
+    "reference_points": [
+      "通常不必重新训练",
+      "更新索引"
+    ]
+  },
+  {
+    "id": "Q02",
+    "kind": "直接",
+    "question": "片段切得太小和太大分别可能带来什么问题？",
+    "gold_docs": [
+      "D02"
+    ],
+    "reference_points": [
+      "切断证据",
+      "无关信息"
+    ]
+  },
+  {
+    "id": "Q03",
+    "kind": "直接",
+    "question": "向量先做L2归一化后，可以怎样计算余弦相似度？",
+    "gold_docs": [
+      "D03"
+    ],
+    "reference_points": [
+      "点积"
+    ]
+  },
+  {
+    "id": "Q04",
+    "kind": "直接",
+    "question": "Bi-Encoder与Cross-Encoder在输入和用途上有什么区别？",
+    "gold_docs": [
+      "D04"
+    ],
+    "reference_points": [
+      "分别编码",
+      "联合输入"
+    ]
+  },
+  {
+    "id": "Q05",
+    "kind": "辨析",
+    "question": "正确证据没有进入初次召回候选时，Rerank能补回来吗？",
+    "gold_docs": [
+      "D05"
+    ],
+    "reference_points": [
+      "不能",
+      "召回"
+    ]
+  },
+  {
+    "id": "Q06",
+    "kind": "辨析",
+    "question": "只在答案后面加一个来源编号，就能证明回答受到证据支持吗？",
+    "gold_docs": [
+      "D06",
+      "D16"
+    ],
+    "reference_points": [
+      "不等于",
+      "核对原文"
+    ]
+  },
+  {
+    "id": "Q07",
+    "kind": "直接",
+    "question": "Hit@3和MRR@3分别衡量什么？",
+    "gold_docs": [
+      "D08"
+    ],
+    "reference_points": [
+      "至少一个",
+      "排名倒数"
+    ]
+  },
+  {
+    "id": "Q08",
+    "kind": "辨析",
+    "question": "资料外问题应不应该计入普通证据命中率的分母？",
+    "gold_docs": [
+      "D08"
+    ],
+    "reference_points": [
+      "不应计入"
+    ]
+  },
+  {
+    "id": "Q09",
+    "kind": "直接",
+    "question": "IVF_FLAT中的nlist和nprobe各表示什么？",
+    "gold_docs": [
+      "D12"
+    ],
+    "reference_points": [
+      "分区总数",
+      "搜索分区数"
+    ]
+  },
+  {
+    "id": "Q10",
+    "kind": "辨析",
+    "question": "为什么修改Embedding模型后，即使向量维度没变也要重新建库？",
+    "gold_docs": [
+      "D15"
+    ],
+    "reference_points": [
+      "语义空间变化",
+      "重新编码"
+    ]
+  },
+  {
+    "id": "Q11",
+    "kind": "资料外",
+    "question": "这门课任课教师的私人手机号码是多少？",
+    "gold_docs": [],
+    "reference_points": []
+  },
+  {
+    "id": "Q12",
+    "kind": "资料外",
+    "question": "这门课期末考试的标准答案是什么？",
+    "gold_docs": [],
+    "reference_points": []
+  }
+]

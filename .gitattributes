@@ -1,0 +1,10 @@
+* text=auto
+*.py text eol=lf
+*.mjs text eol=lf
+*.md text eol=lf
+*.tex text eol=lf
+*.json text eol=lf
+*.cmd text eol=crlf
+*.pptx binary
+*.png binary
+*.jpg binary

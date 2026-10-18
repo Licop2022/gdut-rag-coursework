@@ -1,0 +1,271 @@
+{
+  "reviewer": "助手阅读初评，需小组成员复核",
+  "not_blinded": true,
+  "rubric": "0=错误或无有效回答，1=部分正确或缺关键点，2=主要要点正确且有上下文支持。引用格式另查，不把存在编号视为事实支持。资料外题单独评价。",
+  "items": [
+    {
+      "question_id": "Q01",
+      "mode": "baseline",
+      "answerable": true,
+      "score_0_to_2": 2,
+      "reason": "直接回答通常无需重训，符合 D01。没有提供引用编号。",
+      "cited_ids": [],
+      "citations_all_in_current_context": null,
+      "citation_presence_is_not_factual_support": true
+    },
+    {
+      "question_id": "Q01",
+      "mode": "rerank",
+      "answerable": true,
+      "score_0_to_2": 0,
+      "reason": "资料明确包含答案，却拒答，属于无依据拒答。",
+      "cited_ids": [],
+      "citations_all_in_current_context": null,
+      "citation_presence_is_not_factual_support": true
+    },
+    {
+      "question_id": "Q02",
+      "mode": "baseline",
+      "answerable": true,
+      "score_0_to_2": 0,
+      "reason": "引入搜索引擎抓取、广告点击率等无资料支持内容，没有正确解释小片段切断证据。",
+      "cited_ids": [],
+      "citations_all_in_current_context": null,
+      "citation_presence_is_not_factual_support": true
+    },
+    {
+      "question_id": "Q02",
+      "mode": "rerank",
+      "answerable": true,
+      "score_0_to_2": 1,
+      "reason": "提及条件与跨句证据，但把混入无关信息错误归于小片段，又加入原文没有的结构混乱等说法。",
+      "cited_ids": [],
+      "citations_all_in_current_context": null,
+      "citation_presence_is_not_factual_support": true
+    },
+    {
+      "question_id": "Q03",
+      "mode": "baseline",
+      "answerable": true,
+      "score_0_to_2": 1,
+      "reason": "给出一般余弦公式，未说明归一化后直接点积的简化。",
+      "cited_ids": [],
+      "citations_all_in_current_context": null,
+      "citation_presence_is_not_factual_support": true
+    },
+    {
+      "question_id": "Q03",
+      "mode": "rerank",
+      "answerable": true,
+      "score_0_to_2": 1,
+      "reason": "提及归一化后点积，但“不是通过模长计算”表述不严谨，未清楚限定归一化前后。",
+      "cited_ids": [],
+      "citations_all_in_current_context": null,
+      "citation_presence_is_not_factual_support": true
+    },
+    {
+      "question_id": "Q04",
+      "mode": "baseline",
+      "answerable": true,
+      "score_0_to_2": 1,
+      "reason": "总体区分了召回与联合处理，但“候选片段如片段向量”不准确，结尾出现截断。",
+      "cited_ids": [],
+      "citations_all_in_current_context": null,
+      "citation_presence_is_not_factual_support": true
+    },
+    {
+      "question_id": "Q04",
+      "mode": "rerank",
+      "answerable": true,
+      "score_0_to_2": 0,
+      "reason": "把 Bi-Encoder 说成文本对联合输入，关键区分错误，结尾也出现截断。",
+      "cited_ids": [],
+      "citations_all_in_current_context": null,
+      "citation_presence_is_not_factual_support": true
+    },
+    {
+      "question_id": "Q05",
+      "mode": "baseline",
+      "answerable": true,
+      "score_0_to_2": 0,
+      "reason": "D05 已明确重排不能补回漏召回，模型却拒答。",
+      "cited_ids": [],
+      "citations_all_in_current_context": null,
+      "citation_presence_is_not_factual_support": true
+    },
+    {
+      "question_id": "Q05",
+      "mode": "rerank",
+      "answerable": true,
+      "score_0_to_2": 0,
+      "reason": "D05 已明确重排不能补回漏召回，模型却拒答。",
+      "cited_ids": [],
+      "citations_all_in_current_context": null,
+      "citation_presence_is_not_factual_support": true
+    },
+    {
+      "question_id": "Q06",
+      "mode": "baseline",
+      "answerable": true,
+      "score_0_to_2": 0,
+      "reason": "引用“可靠拒答”后得出添加来源可增加可信度，未回答引用不等于证据支持，推理错位。",
+      "cited_ids": [
+        "D06-C01"
+      ],
+      "citations_all_in_current_context": true,
+      "citation_presence_is_not_factual_support": true
+    },
+    {
+      "question_id": "Q06",
+      "mode": "rerank",
+      "answerable": true,
+      "score_0_to_2": 0,
+      "reason": "明确声称有来源编号即可证明支持，与 D06、D16 相反，即使显示引用编号也不能算正确。",
+      "cited_ids": [
+        "D06-C01"
+      ],
+      "citations_all_in_current_context": true,
+      "citation_presence_is_not_factual_support": true
+    },
+    {
+      "question_id": "Q07",
+      "mode": "baseline",
+      "answerable": true,
+      "score_0_to_2": 2,
+      "reason": "准确解释 Hit@3 和首个相关结果倒数的平均，并给出有效片段编号。",
+      "cited_ids": [
+        "D08-C01"
+      ],
+      "citations_all_in_current_context": true,
+      "citation_presence_is_not_factual_support": true
+    },
+    {
+      "question_id": "Q07",
+      "mode": "rerank",
+      "answerable": true,
+      "score_0_to_2": 2,
+      "reason": "准确解释两项指标，相关上下文支持，但未提供引用编号。",
+      "cited_ids": [],
+      "citations_all_in_current_context": null,
+      "citation_presence_is_not_factual_support": true
+    },
+    {
+      "question_id": "Q08",
+      "mode": "baseline",
+      "answerable": true,
+      "score_0_to_2": 0,
+      "reason": "回答应该计入，与 D08 的不计入原则相反。",
+      "cited_ids": [],
+      "citations_all_in_current_context": null,
+      "citation_presence_is_not_factual_support": true
+    },
+    {
+      "question_id": "Q08",
+      "mode": "rerank",
+      "answerable": true,
+      "score_0_to_2": 0,
+      "reason": "回答应该计入，与 D08 的不计入原则相反。",
+      "cited_ids": [],
+      "citations_all_in_current_context": null,
+      "citation_presence_is_not_factual_support": true
+    },
+    {
+      "question_id": "Q09",
+      "mode": "baseline",
+      "answerable": true,
+      "score_0_to_2": 2,
+      "reason": "准确区分建库分区数与查询访问分区数，引用 D12-C01。",
+      "cited_ids": [
+        "D12-C01"
+      ],
+      "citations_all_in_current_context": true,
+      "citation_presence_is_not_factual_support": true
+    },
+    {
+      "question_id": "Q09",
+      "mode": "rerank",
+      "answerable": true,
+      "score_0_to_2": 2,
+      "reason": "准确区分建库分区数与查询访问分区数，引用 D12-C01。",
+      "cited_ids": [
+        "D12-C01"
+      ],
+      "citations_all_in_current_context": true,
+      "citation_presence_is_not_factual_support": true
+    },
+    {
+      "question_id": "Q10",
+      "mode": "baseline",
+      "answerable": true,
+      "score_0_to_2": 1,
+      "reason": "知道需要重建，但未解释语义空间变化，把理由说成配置更新及避免重复工作。",
+      "cited_ids": [],
+      "citations_all_in_current_context": null,
+      "citation_presence_is_not_factual_support": true
+    },
+    {
+      "question_id": "Q10",
+      "mode": "rerank",
+      "answerable": true,
+      "score_0_to_2": 2,
+      "reason": "明确说明语义空间变化导致旧向量不再兼容，符合 D15。未给引用编号。",
+      "cited_ids": [],
+      "citations_all_in_current_context": null,
+      "citation_presence_is_not_factual_support": true
+    },
+    {
+      "question_id": "Q11",
+      "mode": "baseline",
+      "answerable": false,
+      "score_0_to_2": 2,
+      "reason": "正确说明资料不足，没有编造私人号码。",
+      "cited_ids": [],
+      "citations_all_in_current_context": null,
+      "citation_presence_is_not_factual_support": true
+    },
+    {
+      "question_id": "Q11",
+      "mode": "rerank",
+      "answerable": false,
+      "score_0_to_2": 2,
+      "reason": "正确说明资料不足，没有编造私人号码。",
+      "cited_ids": [],
+      "citations_all_in_current_context": null,
+      "citation_presence_is_not_factual_support": true
+    },
+    {
+      "question_id": "Q12",
+      "mode": "baseline",
+      "answerable": false,
+      "score_0_to_2": 0,
+      "reason": "编造考试标准答案由学生自我评估得出，没有资料依据。",
+      "cited_ids": [],
+      "citations_all_in_current_context": null,
+      "citation_presence_is_not_factual_support": true
+    },
+    {
+      "question_id": "Q12",
+      "mode": "rerank",
+      "answerable": false,
+      "score_0_to_2": 0,
+      "reason": "把 Hit@3 资料说成考试标准答案，构成编造，即使片段编号可能存在也不能支持结论。",
+      "cited_ids": [
+        "D08-C01"
+      ],
+      "citations_all_in_current_context": true,
+      "citation_presence_is_not_factual_support": true
+    }
+  ],
+  "answerable_summary": {
+    "baseline": {
+      "fully_correct_count": 3,
+      "score_sum": 9,
+      "max_score_sum": 20
+    },
+    "rerank": {
+      "fully_correct_count": 3,
+      "score_sum": 8,
+      "max_score_sum": 20
+    }
+  }
+}

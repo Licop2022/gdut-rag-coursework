@@ -1,0 +1,8 @@
+{
+  "cosine": "s(q,d_i)=\\frac{\\mathbf{e}_q^{\\mathsf T}\\mathbf{e}_i}{\\lVert\\mathbf{e}_q\\rVert_2\\,\\lVert\\mathbf{e}_i\\rVert_2}",
+  "normalized": "s(q,d_i)=\\widehat{\\mathbf e}_q^{\\mathsf T}\\widehat{\\mathbf e}_i",
+  "rerank": "r_i=f_{\\theta}\\!\\left([q\\,;\\,d_i]\\right)",
+  "hit": "\\operatorname{Hit@3}=\\frac{1}{N}\\sum_{j=1}^{N}\\mathbf{1}\\!\\left[\\rho_j\\leq3\\right]",
+  "mrr": "\\operatorname{MRR@3}=\\frac{1}{N}\\sum_{j=1}^{N}\\begin{cases}\\dfrac{1}{\\rho_j},&\\rho_j\\leq3,\\\\[3pt]0,&\\rho_j>3.\\end{cases}",
+  "vectors": "\\mathbf e_q=E(q),\\qquad \\mathbf e_i=E(d_i)"
+}
