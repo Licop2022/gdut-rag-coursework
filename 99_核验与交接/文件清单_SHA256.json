@@ -4,18 +4,18 @@
   "files": [
     {
       "path": ".gitattributes",
-      "bytes": 171,
-      "sha256": "269c1b53c7536e5e322a1aa592fb592a8223ea15290998fc3be2aa6402da64f7"
+      "bytes": 161,
+      "sha256": "4157fc4f70dbeb74dcd1aec32210c06567bdbcb04e4baa620b3149256d18adb9"
     },
     {
       "path": ".gitignore",
-      "bytes": 406,
-      "sha256": "c038f3dc44083174a755f7a87b00f05ad62dcda6ec501b31cce387357fdf608e"
+      "bytes": 379,
+      "sha256": "5e53f1a59dc3d26592c0253b5b98942942b928c556d9c9ee53d2725bd0be15f8"
     },
     {
       "path": "00_从这里开始.md",
-      "bytes": 959,
-      "sha256": "86b05aa0eafa2ac50375850c69b3eeab0458f50624174a73648b45b804b50f8d"
+      "bytes": 944,
+      "sha256": "78ef7a37d1b9eb20b4745b96680ebb8d62fef93c178540db27cf5a7b6ce073e0"
     },
     {
       "path": "01_汇报材料/assets/gdut-campus-2025-original.jpg",
@@ -34,8 +34,8 @@
     },
     {
       "path": "01_汇报材料/assets/来源.txt",
-      "bytes": 671,
-      "sha256": "b4872f3577138a3830bb52fe4125169cde75fa7518476238f01e30d5c48fe155"
+      "bytes": 661,
+      "sha256": "1427323e0378478b7cb03ea52964767e9449582abe602238e12344aaf2355dfb"
     },
     {
       "path": "01_汇报材料/assets/重制版公式页预览.png",
@@ -59,8 +59,8 @@
     },
     {
       "path": "01_汇报材料/公式/latex-manifest.json",
-      "bytes": 605,
-      "sha256": "5832950812a18f7c41f84bb1992357fc3bfa5f324412189ff2081b559d9cecc8"
+      "bytes": 598,
+      "sha256": "b578e977ce8eb82ae161be2473379a4e90ef4d970164231bd6d9d7b2cfe0fc5b"
     },
     {
       "path": "01_汇报材料/公式/mrr.svg",
@@ -84,13 +84,13 @@
     },
     {
       "path": "01_汇报材料/公式/公式源码.tex",
-      "bytes": 675,
-      "sha256": "3cfbf462488b370c27b1ec5bbfe29d5cb0445753b3d426a216ca87b84097e62c"
+      "bytes": 641,
+      "sha256": "7d3727c8a15174b590503824a13fb1e24da53e0ef987ad91bc86d6dbb00594eb"
     },
     {
       "path": "01_汇报材料/四人讲稿_重制版.md",
-      "bytes": 7378,
-      "sha256": "aa7582f2e204bf139927c633f3ab483ad2d33de29c2b3ddb393ca9df0e6a7ae5"
+      "bytes": 7279,
+      "sha256": "74c6ae246ea8112c918124f3cc6d551f815bea5de294bca7c2c9bfcae46bba40"
     },
     {
       "path": "01_汇报材料/课程汇报_重制版.pptx",
@@ -99,133 +99,133 @@
     },
     {
       "path": "02_书面报告/参考资料.md",
-      "bytes": 1715,
-      "sha256": "025ec144ddecbc1d947c0d011746e885b784dd3d2432e61871b052897e29ccce"
+      "bytes": 1697,
+      "sha256": "9eeb40370b6705ef158237b24fa5ce9079511e84daaa7326a9c01446064ee9a8"
     },
     {
       "path": "02_书面报告/实验报告.md",
-      "bytes": 12982,
-      "sha256": "f64e07a30fc1c2db8fb356e7f4d3a726e7c86f5b88bde4caf676b5a6d749c81b"
+      "bytes": 12818,
+      "sha256": "dae1b7fa55e50f924bacac75943bef4b4ae9aa26a4ed64e7a166c0b1d9156d24"
     },
     {
       "path": "03_可运行项目/build_data.py",
-      "bytes": 14293,
-      "sha256": "842a5b3271b46ac3a3864044f6310e0e80a5e8681fe76a6697d06e2760f650d4"
+      "bytes": 14242,
+      "sha256": "fcf4fd2b2459b426281af14fe650918d734b64b33ea7b34c0f96fa30ee4f0a91"
     },
     {
       "path": "03_可运行项目/data/corpus/D01.md",
-      "bytes": 658,
-      "sha256": "e9359a27e0b0c486b853427ccea27b31a8a31c63a2f9e305208bd1a559a5cbdc"
+      "bytes": 653,
+      "sha256": "839ca8d6314266a7d2a2c40d104ad88789f6e39b46d77a9da10384e43d7c724f"
     },
     {
       "path": "03_可运行项目/data/corpus/D02.md",
-      "bytes": 669,
-      "sha256": "2869b37125880a96ff7663e3b5e3639ba2c40d25dc412ce5d266328146c5aba3"
+      "bytes": 664,
+      "sha256": "cc819ec4adde5f3669284acf2f9ee6cacd83cb6f097cf1141673fd4c72815026"
     },
     {
       "path": "03_可运行项目/data/corpus/D03.md",
-      "bytes": 627,
-      "sha256": "270e19448e0bc082d3ee91a36826337036857a51904fe4cfb74f812b28d301fd"
+      "bytes": 622,
+      "sha256": "cafd393742937659d7387eb08be900bde26397fff874cd7655604d5363777bc2"
     },
     {
       "path": "03_可运行项目/data/corpus/D04.md",
-      "bytes": 641,
-      "sha256": "e4632b3106571bf8f28bd955abcc6d458a4ba5393b861ceefc19107c3490054c"
+      "bytes": 636,
+      "sha256": "036152430ed004eb71a8f70e2527e4b19a5db4ddfcf39b2d19763d8b1984a14f"
     },
     {
       "path": "03_可运行项目/data/corpus/D05.md",
-      "bytes": 655,
-      "sha256": "7efdfc04d5ade0f4c286af9a1227548f286a972d28ceac4681aaa94ec0237e49"
+      "bytes": 650,
+      "sha256": "38a7376a8606d64a879c2897a03e92417c6c1627013e9871e6e6e71102f100a1"
     },
     {
       "path": "03_可运行项目/data/corpus/D06.md",
-      "bytes": 613,
-      "sha256": "4866861ec4f163c93014e2e1f86e07d26d403132fd2f61159655e0c846b2a4da"
+      "bytes": 608,
+      "sha256": "2e7cbf732f699f0e2fc241b574895055b7ecfb59ed9abd0f07a16c947f98f57d"
     },
     {
       "path": "03_可运行项目/data/corpus/D07.md",
-      "bytes": 599,
-      "sha256": "ab74b51cfb82d0fcbced35a20ad1c8a0d4ba7dc6d145add569f14661eb74f8d3"
+      "bytes": 594,
+      "sha256": "6cb3f4a3134cce263303017f605601f86ed8cd4289a07e9794a96f3da98402af"
     },
     {
       "path": "03_可运行项目/data/corpus/D08.md",
-      "bytes": 604,
-      "sha256": "73388b6169a6c4d571b85d5fd9e8067db6baded58c9fe64024f4f8be4a146bba"
+      "bytes": 599,
+      "sha256": "93861f12182950cd2d1ead18647e5bd4c4b5193e3bacfd4287ed5a1e69475a68"
     },
     {
       "path": "03_可运行项目/data/corpus/D09.md",
-      "bytes": 622,
-      "sha256": "3f565656ef4c17e2818e87eff4ed518385dfe5c7f607b09f164c2b3f8e1b2142"
+      "bytes": 617,
+      "sha256": "7c3995ae3145af894ccdde694ea8c4271382cecc0231d196e43b3ff44521a4c9"
     },
     {
       "path": "03_可运行项目/data/corpus/D10.md",
-      "bytes": 637,
-      "sha256": "894189a7e5656afa95ad6d89f53e218ed1efea38f81d18a6f894c5d543a4b1c3"
+      "bytes": 632,
+      "sha256": "e4afc7483088c8b1e9da88ee1a641b2285f5e503b225edde51937b1a2d503a84"
     },
     {
       "path": "03_可运行项目/data/corpus/D11.md",
-      "bytes": 609,
-      "sha256": "c9808299905e39017d90f2f8e4f6683f6fb1be97eddb836603673a8631b58882"
+      "bytes": 604,
+      "sha256": "9f826096b0ec7478d6abfcac39ddf1acec76550067e575c01dfc658b876e3245"
     },
     {
       "path": "03_可运行项目/data/corpus/D12.md",
-      "bytes": 555,
-      "sha256": "2dbebe710c718b8de32446cb4a1a42e6a0ce3e4d50e382d7cf7b76818d27cfe4"
+      "bytes": 550,
+      "sha256": "207251a714752a94e90e4f106054e4ab491d007c28ba5adfb2327977d215c8db"
     },
     {
       "path": "03_可运行项目/data/corpus/D13.md",
-      "bytes": 573,
-      "sha256": "cb23f9be32ab7b5e381dec13558b66026e9419d6c0b1064cfb8155a5daaeadc8"
+      "bytes": 568,
+      "sha256": "99991b424fc974b603016c965a237e9d5eaaaa07022211a301d2ba603e0239d7"
     },
     {
       "path": "03_可运行项目/data/corpus/D14.md",
-      "bytes": 608,
-      "sha256": "7d780a1be1f3755d053695d856d8cb6da11a76411d12a20c3cf8a6ebf9796d29"
+      "bytes": 603,
+      "sha256": "d39ac40b8a232d11c4352759011a6dcac79a0d3349038d334871f5f1adf72136"
     },
     {
       "path": "03_可运行项目/data/corpus/D15.md",
-      "bytes": 595,
-      "sha256": "67d7033ab92efd209f644bedfea34d652979da44f31966f93267e888c3155c18"
+      "bytes": 590,
+      "sha256": "af92b1805954a2c5bdce1a22dd7749f8f4b061f4cb87a4c8ed6d0290e788b3db"
     },
     {
       "path": "03_可运行项目/data/corpus/D16.md",
-      "bytes": 544,
-      "sha256": "f18643845a36b02d9762033800fb83a5a6d805019e79725c4c715d171fcdb286"
+      "bytes": 539,
+      "sha256": "be2207eb1080d2dc4bbe8349568ae07e7d3f47ebe4ce558a4ca5c2b5e5a02573"
     },
     {
       "path": "03_可运行项目/data/corpus/D17.md",
-      "bytes": 561,
-      "sha256": "e8bd382f8fe8c5e572043beefbef1c47082c6a603afdf5523c7e50a46c97c0b6"
+      "bytes": 556,
+      "sha256": "0c669321d8c433836e92c40d282109e7decb4811a11a32c20de67e1e9dfe632b"
     },
     {
       "path": "03_可运行项目/data/corpus/D18.md",
-      "bytes": 545,
-      "sha256": "6ba1c465e4246d70154457b502b176e226e3acf23b5dec99618f1d6895d21236"
+      "bytes": 540,
+      "sha256": "d8eb9cfedee6b1a78399cc384a04248d3fccbd82f04b8efa94437084d8321c08"
     },
     {
       "path": "03_可运行项目/data/corpus/D19.md",
-      "bytes": 612,
-      "sha256": "8af7e8a8a09eb9cd1a3ac69393cab92671058204412e3f542716b5c893ce702e"
+      "bytes": 607,
+      "sha256": "a3bf6b23b2b5f7be443d607e2e3f4e5f0a23c0f8880f286339455e45ba9dbead"
     },
     {
       "path": "03_可运行项目/data/corpus/D20.md",
-      "bytes": 517,
-      "sha256": "f14c4ad18bcb589692d6ccc870341f34fdc6c62051090704fc790db56624fd53"
+      "bytes": 512,
+      "sha256": "24482714b26042480546615ff5319672bc4708707abfa9b6e19c88eadadbe681"
     },
     {
       "path": "03_可运行项目/data/questions.json",
-      "bytes": 2897,
-      "sha256": "60d019b4eabc258d568e03dc464bba5d6045299428c638582f000a8fab13e88d"
+      "bytes": 2763,
+      "sha256": "78bc44ce81e792e7c698367c3897672a219faa6dd70c1009626db6c4d666da79"
     },
     {
       "path": "03_可运行项目/download_models.py",
-      "bytes": 4066,
-      "sha256": "eb24d70677a7ffdc8dc4203f141985a118bd353e34fd980ef346bcef0d3b384f"
+      "bytes": 4000,
+      "sha256": "b4b45e7c281ae6830c4685817f8ae53917312ec639efaf14aad754bf8ef948d8"
     },
     {
       "path": "03_可运行项目/models/embedding/README.md",
-      "bytes": 28081,
-      "sha256": "348f348c0718c1645bd45aadb750638bdc3335292eb51d241ca395b6cac9f7ef"
+      "bytes": 27670,
+      "sha256": "c48a4eeea77f6b1d38b48ec1c5b8d4f86d5550cc43fa345a0db1b2ca1d082369"
     },
     {
       "path": "03_可运行项目/models/generator/LICENSE",
@@ -234,93 +234,93 @@
     },
     {
       "path": "03_可运行项目/models/generator/README.md",
-      "bytes": 5026,
-      "sha256": "f2707aecc87e81a68e614cba25a72ae2498c1975f125077652a5d8f086bf0840"
+      "bytes": 4917,
+      "sha256": "b19c806a904db6dc878a0462e70b551f6b7ac78dfbb88c2eb966ca2b9109ae15"
     },
     {
       "path": "03_可运行项目/models/manifest.json",
-      "bytes": 15863,
-      "sha256": "3a1699e4eec020079cfd3a796243d6764abfdfb94e7010be7bfade0470773e54"
+      "bytes": 15421,
+      "sha256": "1b3fad16f8dfc98893861c2d954f7e731966c5da8f7ad8e400402576106ab7a4"
     },
     {
       "path": "03_可运行项目/models/README_下载模型.md",
-      "bytes": 474,
-      "sha256": "2509c74c5c3e8f92415a44284110e75468a4e09ea4c6fb6c458d52128d98fd90"
+      "bytes": 469,
+      "sha256": "118aa9dd4f46b416a35aaa38e7e1a1f7ec21ba6236aa929771c3656649222107"
     },
     {
       "path": "03_可运行项目/models/reranker/README.md",
-      "bytes": 2340,
-      "sha256": "c86bce75ae78f36287331388604a090cdba0ea394a9f2c1d4da364a4ca65c623"
+      "bytes": 2278,
+      "sha256": "474736a65d6393a060119a8dc304563af67af4d8d86ccfee4a05dd0df107fc11"
     },
     {
       "path": "03_可运行项目/rag_engine.py",
-      "bytes": 9061,
-      "sha256": "79fa920fb57a9938a47648860d2b770dc3302b53fdaebcc24a9f07193ce125c4"
+      "bytes": 8910,
+      "sha256": "4f61d7d7336ef5536454e9374dc5d0655fc419c9a17cf98e111d4d902c1d598d"
     },
     {
       "path": "03_可运行项目/RAG课程作业.ipynb",
-      "bytes": 27613,
-      "sha256": "a3aaa581235b787815ccec31364b26323ee48676c3cc7c9ea17eeb1f8bf4059e"
+      "bytes": 27006,
+      "sha256": "ef0176a72c3e969b6b4c6dcbec1e0856939dd1fc11a66e443f5c8eaef704eb72"
     },
     {
       "path": "03_可运行项目/README_运行说明.md",
-      "bytes": 1988,
-      "sha256": "b9374911f92010a63063a766543ae4dccb355042ea83b9da76d4f1ccbb60bef7"
+      "bytes": 1947,
+      "sha256": "3450afdeebb33a9d8f4f63d450acff7924be8db63cefcb0a5dff1544e89b3802"
     },
     {
       "path": "03_可运行项目/requirements-lock.txt",
-      "bytes": 2061,
-      "sha256": "75b1058ffc56e2d4ca580a812849a9e9c8af274a3638d9c205284b50b52ac486"
+      "bytes": 1955,
+      "sha256": "79fafaeab6c12831e5c35652d5a978412db190fd106507eebcb5d756ce087fcd"
     },
     {
       "path": "03_可运行项目/requirements.txt",
-      "bytes": 188,
-      "sha256": "889941b219e797dce0e649d82cf1f0c5d32391810deb4e36d5eb7ae58d6f0122"
+      "bytes": 178,
+      "sha256": "f8b3d2d9885146cd231c749dbf7e2ecb0ff2570d86ee55cad27c7b0910ca05f8"
     },
     {
       "path": "03_可运行项目/results/answer_review.json",
-      "bytes": 9310,
-      "sha256": "cb43590e2ab12ecdb05cfb263902de96464da47a0c290d7d8ba717642cd052e1"
+      "bytes": 9040,
+      "sha256": "a97bd1355b52b92b956b1e4da47ccadab166b7f823b813af462d2b9595fd6f8c"
     },
     {
       "path": "03_可运行项目/results/presentation_evidence.json",
-      "bytes": 966,
-      "sha256": "b65aa345449a5d54e3602067c221837bf5568c262df9ee286b5d56e8fa5c3fbc"
+      "bytes": 957,
+      "sha256": "2d627757590c80ec038537b5df2fc64341fb447f6d0588a31511fdff8531ec47"
     },
     {
       "path": "03_可运行项目/results/raw_results.json",
-      "bytes": 231738,
-      "sha256": "b1fd53e022be96d847c7df13d2039249852607c8b75111203e3f15e734482a45"
+      "bytes": 227720,
+      "sha256": "b7436e8b48fea47fb1b39a31c93a18bf75b9ceae00a1fcb48b2f478b20c25bad"
     },
     {
       "path": "03_可运行项目/results/summary.json",
-      "bytes": 1598,
-      "sha256": "6fa46cc46ca3871507f59d645c4efaa899ec88966e4dcea75d4fa2dca71c2607"
+      "bytes": 1547,
+      "sha256": "355314288e64babfcdbc2e1090347e16d6f3f81cdbae98056ad8dc524e3bf8ef"
     },
     {
       "path": "03_可运行项目/results/supplementary_ranking_probes.json",
-      "bytes": 217739,
-      "sha256": "b449088393032f7054194883d1d6e525a1c811a72d9c95fff2f65b17619c2d68"
+      "bytes": 213982,
+      "sha256": "457987994be0a6f38e09f208c73d46cadef7f99cbcb4e849b5af4ff1c5061601"
     },
     {
       "path": "03_可运行项目/results/逐题结果.csv",
-      "bytes": 7868,
-      "sha256": "e747146209b3f3e3927bde890f52d56f8050402c1e80c659b61185d87c035ac5"
+      "bytes": 7855,
+      "sha256": "3471a09a133dc881efa610c81f16327297189159ac7572d677f07a24950c413b"
     },
     {
       "path": "03_可运行项目/run_experiment.py",
-      "bytes": 4319,
-      "sha256": "573bf1a2407a3a7838573d2e1501b3d407de749d3c41c3bec5781634a20fa276"
+      "bytes": 4259,
+      "sha256": "2990bc6f378ea638f4d5ff37a550bd80edd56e474cb3f364bc43c018c092a08a"
     },
     {
       "path": "03_可运行项目/supplementary_demo.py",
-      "bytes": 1547,
-      "sha256": "c7e6b12b12ebf4291850a85bdd1009e7529ea0da75c62e892934d4f941239b75"
+      "bytes": 1522,
+      "sha256": "2f683ed875e8269e8d0f54473bb0a9edf1c7f94809aaf6eae66a9c170f7b45ac"
     },
     {
       "path": "03_可运行项目/test_core.py",
-      "bytes": 1406,
-      "sha256": "de8282fe84c8c7feee71a1ab845be0b1a9d77265a48cfc38d2b7f720ec43fb90"
+      "bytes": 1384,
+      "sha256": "ff78a0105bd7edc7a1cd5730cdb3651098295f41f5bb8cfd220546d1e01e719a"
     },
     {
       "path": "03_可运行项目/启动现场问答.cmd",
@@ -329,8 +329,8 @@
     },
     {
       "path": "03_可运行项目/实验结果预览.html",
-      "bytes": 52658,
-      "sha256": "6f799ac657db107ee4ec19a9ef535340540eb7167ebc037dedffcf2a0ce20ad2"
+      "bytes": 52551,
+      "sha256": "727fc1146e72b30e36b90956032e7086e52e1e465d000ceb7d92826b4517c74b"
     },
     {
       "path": "03_可运行项目/打开Notebook.cmd",
@@ -339,18 +339,18 @@
     },
     {
       "path": "04_排版与生成源码/build_deck_v2.mjs",
-      "bytes": 24325,
-      "sha256": "2e73309f87db9a8ac6575c79a94a99a73ffbc9a58759e54ce53759abf6d635ea"
+      "bytes": 24042,
+      "sha256": "7d5c428c9f3520ef5595d71d27625de4c5ae8c312d776a4af872d7bd8ee7b4b7"
     },
     {
       "path": "04_排版与生成源码/finalize.mjs",
-      "bytes": 1935,
-      "sha256": "aac95f4a2e8e777dbdb157362560186e664d3ccca9d4612e8e8e75081d6a27de"
+      "bytes": 1910,
+      "sha256": "3ba75a21299974ca9e726099dbf08909d48af82640fea8a33700c38e24ecf847"
     },
     {
       "path": "04_排版与生成源码/math-deps/package.json",
-      "bytes": 106,
-      "sha256": "d9f1a410356440316e433df2b58f653a5a9fdc814c13c6b87ee8a4a0be0d21fc"
+      "bytes": 105,
+      "sha256": "243f1dcacab7b411060678cba9bf64777912e5705055f51852498e1f922382ed"
     },
     {
       "path": "04_排版与生成源码/math-deps/pnpm-lock.yaml",
@@ -359,88 +359,88 @@
     },
     {
       "path": "04_排版与生成源码/README_排版源码.md",
-      "bytes": 1372,
-      "sha256": "de128080f8ac0f2c8b5d1155d5053675890681393b0ad77fc38d610760e98ada"
+      "bytes": 1353,
+      "sha256": "e5e1a8d308390efcf8e07198a27d8bf76e0c7c832172d2e46a00b457e02e6069"
     },
     {
       "path": "04_排版与生成源码/runtime-settings.example.json",
-      "bytes": 203,
-      "sha256": "d27274201aeeec036d19587e24753f443c96f825898544bbe43ca6ec0e886f2a"
+      "bytes": 198,
+      "sha256": "187be8d5651c74c549dcf3e1042806f92a33c4459f6b16353808627eea60c05b"
     },
     {
       "path": "05_课程要求与规划/最初四人执行方案_页序以新讲稿为准.md",
-      "bytes": 14291,
-      "sha256": "36013b8f1e8eab0f35a96cbb2d3b0e8ff3435a107e96061d3e1e62ee01ff8a99"
+      "bytes": 14087,
+      "sha256": "d9ad539fb27dd364195f197cd59c7f884f95dcd88086f364dc6d997e1629aa4f"
     },
     {
       "path": "05_课程要求与规划/要求摘要.md",
-      "bytes": 1190,
-      "sha256": "29c60125233c7dce5dd185774ce481fa2185d1d80dc978833b0323b4ee08ace7"
+      "bytes": 1179,
+      "sha256": "a8bc98272741ebe925c5213ed08ab6d2d6572e70def6fa79471e3cf16ba2cf61"
     },
     {
       "path": "05_课程要求与规划/课程要求_附件转录.md",
-      "bytes": 5352,
-      "sha256": "5930c9c8ae74396b6f258352ac2b70b4ee39e58024f7c0a184aca671549ca3cc"
+      "bytes": 5273,
+      "sha256": "2aface931f316e594270e1143752c2b8f118f6507952497e8f3bfc43478443ca"
     },
     {
       "path": "90_历史版本/原始构建脚本/build_deck.mjs",
-      "bytes": 14549,
-      "sha256": "b2d0235716d06161bcb992090a953c85428b4a7bb7bec568d69fab3c0105ca0c"
+      "bytes": 14394,
+      "sha256": "f07150f725c18b877344677f7bfbd164a97282aefba29c4db2de16b0f69679ad"
     },
     {
       "path": "90_历史版本/原始构建脚本/build_deck_v2.mjs",
-      "bytes": 25127,
-      "sha256": "baa003c269024d3a21bcdf8b29e7d85f963999314e3872911d18464a8e746b47"
+      "bytes": 24839,
+      "sha256": "f28801c301944e5d8c10ab819dbb4b2734f67fba9e6b5a0ec91d22613e6aebca"
     },
     {
       "path": "90_历史版本/原始构建脚本/build_outputs.py",
-      "bytes": 29080,
-      "sha256": "cc69cc37b552a4c3d45a71b073e2ced45e8ee4e6accdc11dc6bec9996ca7f957"
+      "bytes": 28717,
+      "sha256": "49435e981fdb90996c4b5d8edb433d84f19244d0ff2bd45fe22bb696061efc95"
     },
     {
       "path": "90_历史版本/原始构建脚本/check_delivery.py",
-      "bytes": 2533,
-      "sha256": "b47c97e5c9a4ac0374b8f875408e98d48c3fea614a5367cd5f14c70773e3261e"
+      "bytes": 2497,
+      "sha256": "624ef4e7c39ec8233d415fdb9c80e7562c7859d40fb7870af1fee543ef9df1f0"
     },
     {
       "path": "90_历史版本/原始构建脚本/execute_notebook.py",
-      "bytes": 1571,
-      "sha256": "3da87d1f02e91bb6b62f27929b11c216def52e093cf368b5374253f75e8d142d"
+      "bytes": 1540,
+      "sha256": "72961ca042416bef22d545d56e9b35907f349d82413e793aa08f0ecbbd72f12f"
     },
     {
       "path": "90_历史版本/原始构建脚本/fetch_brand.py",
-      "bytes": 979,
-      "sha256": "1b43660561606b1e45f73bc20a00c9754886d26dcc6dd5c33d09643edacece9d"
+      "bytes": 967,
+      "sha256": "eb19f4a6861327968b85ff9a415a364891cb55d9c2a275cdd60efce074b7e491"
     },
     {
       "path": "90_历史版本/原始构建脚本/package_delivery.py",
-      "bytes": 2385,
-      "sha256": "024b8c4c3f5a68484b0e196d6043f992fcc07e08c6384948fc1d8c6bb84913c9"
+      "bytes": 2351,
+      "sha256": "af9a5e6388254425f759f4362d9a546f4ac2733515a18d4486f44c3214995778"
     },
     {
       "path": "90_历史版本/原始构建脚本/write_review.py",
-      "bytes": 5018,
-      "sha256": "43b8c6e7823ee773c863ff967938b74bf520a0e146410f04d96825dcbf95a495"
+      "bytes": 4976,
+      "sha256": "93f83bc8c7435fb05e5136013500cf3575e7511fe98987845b584a9e3f7c06dd"
     },
     {
       "path": "90_历史版本/四人讲稿与答辩.md",
-      "bytes": 4827,
-      "sha256": "4e3166de17e5f5d778bc1175651dc9f6594511e0c183309e447bad9f53d86ada"
+      "bytes": 4786,
+      "sha256": "67a0c0d19799e27359a73560345b61a6900f70a4dcf61317b5ac106988d68e03"
     },
     {
       "path": "90_历史版本/整理前运行说明.md",
-      "bytes": 5144,
-      "sha256": "183bf2897e9fcf8dc513a2ba24a7b17339196ff7b2b0943ddcf05ce3b7445ffa"
+      "bytes": 5070,
+      "sha256": "ca4f76f5c3b47d63cf2328347e821e6f48d0c3ac5ee469f0d74eb49a73cc07f5"
     },
     {
       "path": "90_历史版本/旧进度记录_仅供追溯.md",
-      "bytes": 7436,
-      "sha256": "65454673e3e1fab7d38e6a162b067caf6ed668cd09ed2f2c3904532dc2c7f98e"
+      "bytes": 7370,
+      "sha256": "bdc5b17afac779f22bc0f485e56a84b657d41f19dff852cb3a2953a35023ca17"
     },
     {
       "path": "90_历史版本/请勿当作当前进度.md",
-      "bytes": 430,
-      "sha256": "9939beedd36f4c95133adca50af976547159eb52411e7de799c272d710ebfdbd"
+      "bytes": 425,
+      "sha256": "1b33b53d09846b1cca64efcf7074035941951f7a091520907b35696fca76d2df"
     },
     {
       "path": "90_历史版本/课程汇报.pptx",
@@ -449,43 +449,43 @@
     },
     {
       "path": "99_核验与交接/AGENT_HANDOFF.md",
-      "bytes": 3542,
-      "sha256": "8b38336426897f0d2e3965073933f7e2e3f3d2c350582e1dda22d3d048aa5d8f"
+      "bytes": 3503,
+      "sha256": "38cfd781723b65900ff206daed7ba3d88170c07db2e95f51ee8a7e64b1847e9f"
     },
     {
       "path": "99_核验与交接/PPT重制版验证记录.json",
-      "bytes": 6943,
-      "sha256": "e006ee35e7c7682cd5dc9ae698a241412c7138e5b06aa1236fac4c746ffac28d"
+      "bytes": 6715,
+      "sha256": "79ef553164737e3fefa25c36a18da1c3d79bb593eae6bf94e6959a4144a183ec"
     },
     {
       "path": "99_核验与交接/完整性清单说明.md",
-      "bytes": 531,
-      "sha256": "533619e131edf63a7e1809ec17a4e336f5fd0a4a07469deca18eeca7121a0481"
+      "bytes": 526,
+      "sha256": "83a50f12ee829113711ee8508a864e3ba063dfd4d9b2d3a4b8ac11c82d566aed"
     },
     {
       "path": "99_核验与交接/整理后核验记录.json",
-      "bytes": 1020,
-      "sha256": "df94a7dd50aee8512a0d8cd6e2e4deedc14c012feb37cb121b70294feac3e2b9"
+      "bytes": 989,
+      "sha256": "cde4383a9aab5c945718d39bbe53859afabb0e1086e5f3eb092f3d09cd05d645"
     },
     {
       "path": "99_核验与交接/核对文件完整性.py",
-      "bytes": 953,
-      "sha256": "0806056b27d44176d5bde6cd0111b6751749cafb4cf926e9c829046896ab7e61"
+      "bytes": 933,
+      "sha256": "54b641fd40ac0c91badd844cc581840d309ba5f19273912093b9554a702988a4"
     },
     {
       "path": "99_核验与交接/组员修改路线.md",
-      "bytes": 1573,
-      "sha256": "773ddc8e9e31e913cfe396d184e9666148e362ed3b44c54a71d1f3eab841a61b"
+      "bytes": 1555,
+      "sha256": "fd529b78101fd30ff6ad48dc3f98a6a0c60f0fe8e8e3359bd91906d693c85fa1"
     },
     {
       "path": "AGENTS.md",
-      "bytes": 1273,
-      "sha256": "df416453bfc0c975d44eb5f5104d693a0101247c7f36e7df0d945075b7677d41"
+      "bytes": 1260,
+      "sha256": "f1c371864eaa4bed0f690318fbd82e2db87f6277ebf6dc3e001dfb2896916c48"
     },
     {
       "path": "README.md",
-      "bytes": 3628,
-      "sha256": "390ec92843539dcfa83a1fb70d6bb6393c9a155172653c14f037a9b96fa78769"
+      "bytes": 3573,
+      "sha256": "92ff8cd04255b4f4789d15a174ee427d96f2165bcf4820031ab533d3befef832"
     },
     {
       "path": "启动现场问答.cmd",
