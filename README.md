@@ -2,6 +2,14 @@
 
 四人小组中文课程资料问答项目：对比基础 RAG 与 Cross-Encoder 重排序。包含汇报 PPT、四人讲稿、LaTeX 公式、Notebook、Python 实现、教学语料、固定题集与真实实验结果。
 
+## 9B 在线问答与 chunk 对比
+
+**[打开在线网页](https://licop2022.github.io/gdut-rag-coursework/)** · [9B源码及部署说明](server_scholarship_9b/README_ONLINE.md)
+
+新版支持 Qwen3.5-9B 实时问答、基础 RAG / Rerank 对照、可调 chunk 和 A/B 分块对比，答案与证据差异并排高亮。输入部署者提供的访问密钥即可连接实验室服务器。GitHub Pages托管网页，推理依赖服务器及HTTPS通道在线；源码不包含密钥或模型权重。
+
+下方原0.5B实验材料及指标保留历史状态，与新9B实验分开。
+
 ## 从这里开始
 
 | 目标 | 入口 |

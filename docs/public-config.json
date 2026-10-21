@@ -1,0 +1,6 @@
+{
+  "api_base": "https://per-caught-premiere-creates.trycloudflare.com",
+  "site_url": "https://licop2022.github.io/gdut-rag-coursework/",
+  "requires_access_key": true,
+  "transport": "Cloudflare Quick Tunnel (temporary URL)"
+}
