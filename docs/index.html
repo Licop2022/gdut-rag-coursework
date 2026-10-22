@@ -27,7 +27,7 @@ body{max-width:1120px;margin:36px auto;padding:0 20px;font:17px/1.65 system-ui;b
 <div class="card"><h2>同一批 Top-5 候选的排序变化</h2><table><thead><tr><th>片段</th><th>向量名次</th><th>重排名次</th><th>手册页码</th></tr></thead><tbody id="rows"></tbody></table></div>
 <div class="card"><h2>实际送入模型的证据</h2><pre id="evidence"></pre></div>
 <script>
-const API_BASE="https://per-caught-premiere-creates.trycloudflare.com";let gatewayKey="",connected=false;
+const API_BASE="https://ink-spy-construction-legend.trycloudflare.com";let gatewayKey="",connected=false;
 
 const el=id=>document.getElementById(id);let activeVersion=null,displayedChunks=[];
 function busy(value){for(const id of ['ask','previewChunks','applyChunks','resetChunks','chunkSize','chunkOverlap','lora','q','compareRun','compareExample','compareSizeA','compareSizeB','compareOverlapA','compareOverlapB','compareQuestion','compareRoute','compareModel'])el(id).disabled=value||!connected;el("connectBackend").disabled=value&&connected;el("disconnectBackend").disabled=value&&connected}
