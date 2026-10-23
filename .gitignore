@@ -25,3 +25,17 @@ runtime-settings.json
 *.pfx
 # New experiment outputs must be reviewed before committing
 results_rerun*/
+
+# Private credentials, server sessions and local publishing workspace
+.public-private/
+.ssh/
+id_rsa
+id_rsa.*
+id_ed25519
+id_ed25519.*
+lab-ssh-config*
+*.ppk
+*.p12
+*.log
+*.pid
+.report-archive-build/
