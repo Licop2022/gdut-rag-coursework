@@ -6,7 +6,6 @@
   const sites = [
     {id:'hajime-nihongo',name:'初见日语',detail:'日语课程与学习记录',url:'https://licop2022.github.io/hajime-nihongo/',color:'#225474'},
     {id:'llm-study',name:'科研学习工作台',detail:'LLM、论文与学习笔记',url:'https://licop2022.github.io/llm-study/',color:'#386b76'},
-    {id:'gdut-rag-coursework',name:'RAG 课程实验',detail:'奖学金问答与分块对比',url:'https://licop2022.github.io/gdut-rag-coursework/',color:'#a21c2b'},
     {id:'lecture-radar',name:'讲座雷达',detail:'广工讲座与学生事务',url:'https://licop2022.github.io/lecture-radar/',color:'#1f5c53'}
   ];
   function mount() {
